@@ -1,9 +1,7 @@
 {
-  "name": "notus-nextjs",
-  "homepage": "https://demos.creative-tim.com/notus-nextjs",
+  "name": "UX4G",
   "version": "1.1.0",
-  "description": "Notus NextJS - A free Tailwind CSS, NextJS and React Ui Kit and Admin by Creative Tim.",
-  "repository": "https://github.com/creativetimofficial/notus-nextjs",
+  "description": "UX4G - USER EXPERIENCE FOR GOVERNMENT",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.3",

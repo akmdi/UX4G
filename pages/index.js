@@ -297,7 +297,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
+                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8">
@@ -311,15 +311,12 @@ export default function Index() {
                       </p>
                     </div>
                   </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
+                  <a href="#">
                     <div className="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue.jpg"
+                        src=""
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         Vue.js

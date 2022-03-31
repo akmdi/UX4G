@@ -286,8 +286,7 @@ export default function Sidebar() {
 
               <li className="inline-flex">
                 <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/angular/overview/notus"
-                  target="_blank"
+                  href="#"
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
                   <i className="fab fa-angular mr-2 text-blueGray-300 text-base"></i>
@@ -297,7 +296,7 @@ export default function Sidebar() {
 
               <li className="inline-flex">
                 <a
-                  href=""
+                  href="#"
                   target="_blank"
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
